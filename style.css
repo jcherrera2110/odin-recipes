@@ -1,0 +1,26 @@
+* {
+    background-color: rgb(230, 230, 208);
+    font-family: sans-serif, verdana, Lucida Sans;
+ 
+    border: 2px solid red;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: rgb(194, 250, 110);
+    width: 200px;
+    height: 70px;
+    font-style: italic;
+    text-align: center;
+    color: brown;
+    font-size: large;
+    padding: 20px;
+    
+}
+
+#Title {
+    text-align: center;
+    font-size: 50px;
+    color: brown;
+}
+
